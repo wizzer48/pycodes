@@ -1,0 +1,30 @@
+region: us  
+tunnels:  
+    default:  
+        proto: tcp  
+        addr: 3389 
+region: ap  
+tunnels:  
+    default:  
+        proto: tcp  
+        addr: 3389 
+region: ap  
+tunnels:  
+    default:  
+        proto: tcp  
+        addr: 3389 
+region: us  
+tunnels:  
+    default:  
+        proto: tcp  
+        addr: 3389 
+region: us  
+tunnels:  
+    default:  
+        proto: tcp  
+        addr: 3389 
+region: ap  
+tunnels:  
+    default:  
+        proto: tcp  
+        addr: 3389 
